@@ -15,6 +15,13 @@ draw = function(){
   }
 
   //🎯New Text Code Should Go Here 🡻
+  background(255,192,193)
+  textSize(30)
+  text("Junelle's Favorite Foods", 150, 80)
+  textSize(20)
+  text("- crepes", 30, 120)
+  text("- sushi", 30, 140)
+  text("- macarons", 30, 160)
 
 };
 
